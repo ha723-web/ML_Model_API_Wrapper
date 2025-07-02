@@ -1,10 +1,4 @@
-Absolutely! Here’s the updated **`README.md`** file with a professional disclaimer added at the end.
 
----
-
-### ✅ Final `README.md` Content:
-
-```markdown
 # 🧠 ML Model API Wrapper
 
 This project demonstrates how to expose a simple machine learning model as a RESTful API using Flask and PostgreSQL. It's a great starting point for data science and software engineering interviews.
